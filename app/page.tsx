@@ -41,6 +41,7 @@ export default function HomePage() {
           </h1>
           <p className="mt-2 text-gray-500 dark:text-gray-400 text-sm sm:text-base">
             共 104 场比赛 · 12 个小组 · 48 支球队 · 美国 / 加拿大 / 墨西哥
+            <span className="ml-3 text-green-600 dark:text-green-500 font-semibold">🇪🇸 加油 西班牙！</span>
           </p>
           <div className="mt-4 flex flex-wrap gap-3 text-xs text-gray-400 dark:text-gray-500">
             <span className="inline-flex items-center gap-1.5 bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 rounded-full px-3 py-1">
