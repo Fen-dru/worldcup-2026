@@ -13,7 +13,9 @@ export const MATCHES: Match[] = [
     homeFlag: '🇲🇽',
     awayFlag: '🇿🇦',
     venue: 'Estadio Azteca，墨西哥城',
-    status: 'scheduled',
+    homeScore: 2,
+    awayScore: 0,
+    status: 'finished',
   },
   {
     id: 'm2',
@@ -26,7 +28,9 @@ export const MATCHES: Match[] = [
     homeFlag: '🇰🇷',
     awayFlag: '🇨🇿',
     venue: 'SoFi Stadium，洛杉矶',
-    status: 'scheduled',
+    homeScore: 2,
+    awayScore: 1,
+    status: 'finished',
   },
   {
     id: 'm3',
